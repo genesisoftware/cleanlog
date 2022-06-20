@@ -1,0 +1,16 @@
+{
+    "name": "genesisoft/cleanlog",
+    "description": "Módulo para limpar log",
+    "type": "magento2-module",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Genesisoft\\CleanLog\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
